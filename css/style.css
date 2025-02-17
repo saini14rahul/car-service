@@ -340,4 +340,5 @@ html{ font-family: Arial, Helvetica, sans-serif; }
     .wrap-2 h3 { margin-bottom: 0; padding: 0; font-size: 14px; }
     .wrap-5 .form-contact .form-container .form-group .phone-container::after { right: 115px; }
     .wrap-3 .box-cntr .card-box h5:nth-child(1) { width: 26%; }
+    .wrap-3 .box-cntr .card-info .card-data .check-data { margin: 0 10px; }
 }
