@@ -31,7 +31,7 @@ html{ font-family: Arial, Helvetica, sans-serif; }
 .full-banner { position: relative; top: 0px; }
 .full-banner .header-fix { position: absolute; width: 100%;  }
 .full-banner .logo { align-items: end; justify-content: center; }
-.full-banner .logo img { width: 50px; }
+.full-banner .logo img { width: 45px; }
 .full-banner .contact { align-items: end; justify-content: center; }
 .full-banner .contact i { width: 35px; height: 35px; background-color: #4184ed; color: #ffffff; text-align: center; align-content: center; font-size: 22px; border-radius: 50px; }
 .full-banner .contact p { font-size: 11px; color: #c9c9c9; padding-left: 5px; line-height: 18px; }
@@ -265,7 +265,7 @@ html{ font-family: Arial, Helvetica, sans-serif; }
     .col-s-4{ flex-basis: 33.3336%; max-width: 33.3336%;}
     .col-s-5 { flex-basis: 41.66%; max-width: 41.66%;}
     .col-s-9 { flex-basis: 75%; max-width: 75%;}
-    .full-banner .logo img { width: 45px; }
+    .full-banner .logo img { width: 40px; }
     .main .heading h1 { font-size: 26px; }
     .main .heading h1 span { font-size: 18px; }
     .wrap-2 { margin: 20px 0; }
