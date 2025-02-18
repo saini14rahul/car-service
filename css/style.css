@@ -126,10 +126,10 @@ h1 span { margin-top: 5px;}
 .wrap-5 .form-contact .form-container .form-group .input-box { position: relative; width: 48%; box-shadow: 0 8px 6px -6px #919191; }
 .wrap-5 .form-contact .form-container .form-group .input-box input { width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 5px; font-size: 12px; padding-right: 25px; outline: none;
 }
-.wrap-5 .form-contact .form-container .form-group .input-box::after { content: "*"; color: red; position: absolute; left: 72px; top: 50%; transform: translateY(-50%); font-size: 14px; pointer-events: none; }
+.wrap-5 .form-contact .form-container .form-group .input-box::after { content: "*"; color: red; position: absolute; left: 72px; top: 30%; font-size: 14px; pointer-events: none; }
 .wrap-5 .form-contact .form-container .form-group .input-box-email { position: relative; width: 48%;  box-shadow: 0 8px 6px -6px #919191; }
 .wrap-5 .form-contact .form-container .form-group .input-box-email input { width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 5px; font-size: 12px; padding-right: 25px; outline: none; }
-.wrap-5 .form-contact .form-container .form-group .input-box-email::after { content: "*"; color: red; position: absolute; left: 58px; top: 48%; transform: translateY(-50%); font-size: 14px; pointer-events: none; }
+.wrap-5 .form-contact .form-container .form-group .input-box-email::after { content: "*"; color: red; position: absolute; left: 58px; top: 28%; font-size: 14px; pointer-events: none; }
 .wrap-5 .form-contact .form-container .form-group .phone-container { display: flex; align-items: center; border: 1px solid #ccc; border-radius: 5px; overflow: hidden; background: white; width: 48%; position: relative; box-shadow: 0 8px 6px -6px #919191; }
 .wrap-5 .form-contact .form-container .form-group .phone-container .flag-dropdown { display: flex; align-items: center; padding: 13px 5px 13px 12px; border-right: 1px solid #ccc; }
 .wrap-5 .form-contact .form-container .form-group .phone-container .flag-dropdown select { border: none; background: transparent; font-size: 16px; cursor: pointer; }
