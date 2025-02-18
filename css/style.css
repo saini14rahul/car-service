@@ -212,6 +212,7 @@ h1 span { margin-top: 5px;}
     .wrap-3 .head h2 { width: 90%; }
     .wrap-3 .car-background { z-index: -1; }
     .wrap-3 .box-cntr { margin-left: 0px; }
+    .wrap-3 .box-cntr .card-info .card-introduction p { padding: 0px 0px 32px 0; } 
     .wrap-4 form label { font-size: 18px; }
     .wrap-4 h3 { font-size: 18px; }
     .wrap-5 .team-contact { margin-left: 0px; }
@@ -322,7 +323,7 @@ h1 span { margin-top: 5px;}
     .wrap-3 .box-cntr .card-info .card-data .check-data { margin: 0 15px; }
     .wrap-3 .box-cntr .card-info .card-data .check-data:nth-child(3) { margin-right: 0px; }
     .wrap-3 .box-cntr .card-info .btn-2 { text-align: center; margin: 0; }
-    .wrap-4 .phone-circle { margin-top: 20px; }
+    .wrap-4 .phone-circle { margin-top: 20px; padding: 0 100px; }
     .wrap-4 .button-3 .phone { padding: 10px 25px; }
     .wrap-5 .join-team { display: block; }
     .wrap-5 .form-contact { margin-top: 20px; width: 100%; }
