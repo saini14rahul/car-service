@@ -251,7 +251,9 @@ h1 span { margin-top: 5px;}
     .wrap-2 .card { padding: 0 0px; }
     .wrap-2 .card:nth-child(3) { display: none; }
     .wrap-2 .card h3 { font-size: 18px; }
+    .wrap-3 { padding-top: 0px; }
     .wrap-3 .car-background { z-index: -1; }
+    .wrap-3 .head h4 { margin-bottom: 10px; }
     .wrap-3 .head h2 { margin-bottom: 20px; }
     .wrap-3 .car-background img { width: 80%; }
     .wrap-4 .button-3 .phone { margin-bottom: 10px; }
@@ -279,7 +281,7 @@ h1 span { margin-top: 5px;}
     .cntr .banner img { width: 200%; }
     .wrap-2 { margin: 20px 0; }
     .wrap-2 h3 { font-size: 18px; }
-    .wrap-3 { padding: 0 0 20px 0; }
+    .wrap-3 { padding: 20px 0 20px 0; }
     .wrap-3 .box-cntr .card-box { width: 260px; margin-right: 10px; padding: 10px; }
     .wrap-3 .box-cntr .card-box h5:nth-child(1) { width: 20%; padding-right: 0px; }
     .wrap-3 .box-cntr .card-box h4 { font-size: 16px; }
