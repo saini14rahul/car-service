@@ -66,13 +66,14 @@ h1 span { margin-top: 5px;}
 .wrap-2 .next { width: 55px; height: 55px; border-radius: 50px; background-color: #e3e3e3; position: absolute; top: 50%; align-content: center; text-align: center; right: 20px; }
 .wrap-2 i { color: #000; font-size: 40px; }
 
-.wrap-3 { padding: 0 0 50px 0; position: relative; }
+.wrap-3 { position: relative; }
 .wrap-3 .head h4 { margin-bottom: 20px; color: #4184ed; }
 .wrap-3 .head h2 { width: 70%; }
 .wrap-3 .head span { color: #4184ed; }
 .wrap-3 .car-background { margin-top: 50px; position: absolute; left: 0px; }
 .wrap-3 .car-background img { width: 70%; }
 .wrap-3 .box-cntr { border: 1px solid #e3e3e3; border-radius: 20px; margin-left: 40px; margin-bottom: 20px;  }
+.wrap-3 .box-cntr:nth-child(4) { margin-bottom: 0; }
 .wrap-3 .box-cntr:nth-child(2) { background-color: #000; color: #fff; }
 .wrap-3 .box-cntr .card-box { background-color: #dfb344; padding: 15px; width: 225px; border-radius: 20px; color: #ffffff; margin: 8px 28px 8px 8px; }
 .wrap-3 .box-cntr:nth-child(2) .card-box { background-color: #a7a8a7; }
@@ -101,6 +102,7 @@ h1 span { margin-top: 5px;}
 .wrap-3 .box-cntr:nth-child(2) .card-info .btn-2 button:nth-child(2) { background-color: #32ab15; color: #fff; }
 .wrap-3 .box-cntr .card-info .btn-2 button img { width: 15px; height: 15px; transform: rotate(45deg); margin-left: 5px; }
 
+.wrap-4 { margin: 50px 0; }
 .wrap-4 .head { width: 80%; }
 .wrap-4 .head h2 { margin-bottom: 20px; margin-right: 40px; }
 .wrap-4 .head h2 span { color: #4184ed; }
@@ -113,7 +115,7 @@ h1 span { margin-top: 5px;}
 .wrap-4 .app-logo img { margin-right: 20px; width: 26%; }
 .wrap-4 .phone-circle img { width: 100%; }
 
-.wrap-5 { background-color: #000; color: #fff; padding: 50px 0; display: flex; margin: 50px 0; }
+.wrap-5 { background-color: #000; color: #fff; padding: 50px 0; display: flex; margin-bottom: 50px; }
 .wrap-5 .team-contact { text-align: left; margin-left: 60px; }
 .wrap-5 .team-contact p { line-height: 22px; margin: 20px 0 40px 0; color: #dfdfdf; }
 .wrap-5 .team-contact p span { display: block; }
@@ -251,7 +253,6 @@ h1 span { margin-top: 5px;}
     .wrap-2 .card { padding: 0 0px; }
     .wrap-2 .card:nth-child(3) { display: none; }
     .wrap-2 .card h3 { font-size: 18px; }
-    .wrap-3 { padding-top: 0px; }
     .wrap-3 .car-background { z-index: -1; }
     .wrap-3 .head h4 { margin-bottom: 10px; }
     .wrap-3 .head h2 { margin-bottom: 20px; }
@@ -279,16 +280,16 @@ h1 span { margin-top: 5px;}
     .main .heading h1 { font-size: 44px; }
     .main .heading h1 span { font-size: 38px; }
     .cntr .banner img { width: 200%; }
-    .wrap-2 { margin: 20px 0; }
+    .wrap-2 { margin: 40px 0; }
     .wrap-2 h3 { font-size: 18px; }
-    .wrap-3 { padding: 20px 0 20px 0; }
     .wrap-3 .box-cntr .card-box { width: 260px; margin-right: 10px; padding: 10px; }
     .wrap-3 .box-cntr .card-box h5:nth-child(1) { width: 20%; padding-right: 0px; }
     .wrap-3 .box-cntr .card-box h4 { font-size: 16px; }
     .wrap-3 .box-cntr .card-data { margin: 20px 0 10px 0; }
     .wrap-3 .box-cntr .card-info .card-introduction p { padding: 0px 10px 18px 0; }
+    .wrap-4 { margin: 40px 0; }
     .wrap-4 .head h2 { margin-right: 0px; }
-    .wrap-5 { padding-bottom: 0px; margin: 20px 0; }
+    .wrap-5 { padding-bottom: 0px; margin-bottom: 40px; }
     .wrap-5 .form-contact { margin-bottom: 40px; padding-bottom: 40px; }
     .wrap-5 .form-contact .form-container { width: 240px; }
     .wrap-5 .form-contact .form-container .form-group { display: block; margin-top: -5px;  }
@@ -316,6 +317,7 @@ h1 span { margin-top: 5px;}
     .full-banner .logo { justify-content: left; margin-right: 20px; align-items: center; padding: 0; padding-left: 20px; }
     .full-banner .logo img { width: 35px; }
     .full-banner .contact { display: none; }
+    .wrap-2 { margin: 30px 0; }
     .wrap-2 h3 { margin-bottom: 10px; }
     .wrap-2 .card:nth-child(2) { display: none; }
     .wrap-3 .box-cntr { display: block; }
@@ -325,8 +327,10 @@ h1 span { margin-top: 5px;}
     .wrap-3 .box-cntr .card-info .card-data .check-data { margin: 0 15px; }
     .wrap-3 .box-cntr .card-info .card-data .check-data:nth-child(3) { margin-right: 0px; }
     .wrap-3 .box-cntr .card-info .btn-2 { text-align: center; margin: 0; }
+    .wrap-4 { margin: 30px 0; }
     .wrap-4 .phone-circle { margin-top: 20px; padding: 0 100px; }
     .wrap-4 .button-3 .phone { padding: 10px 25px; }
+    .wrap-5 { margin-bottom: 30px; }
     .wrap-5 .join-team { display: block; }
     .wrap-5 .form-contact { margin-top: 20px; width: 100%; }
     .wrap-5 .team-contact p { margin-bottom: 20px; }
@@ -350,6 +354,7 @@ h1 span { margin-top: 5px;}
     .main .heading h1 span { font-size: 24px; }
     .wrap-2 h3 { margin-bottom: 0; padding: 0; font-size: 14px; }
     .wrap-5 .form-contact .form-container .form-group .phone-container::after { right: 115px; }
+    .wrap-3 .head h4 { margin-bottom: 5px; }
     .wrap-3 .box-cntr .card-box h5:nth-child(1) { width: 26%; }
     .wrap-3 .box-cntr .card-info .card-data .check-data { margin: 0 10px; }
 }
