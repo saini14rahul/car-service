@@ -134,7 +134,7 @@ h1 span { margin-top: 5px;}
 .wrap-5 .form-contact .form-container .form-group .phone-container .flag-dropdown { display: flex; align-items: center; padding: 13px 5px 13px 12px; border-right: 1px solid #ccc; }
 .wrap-5 .form-contact .form-container .form-group .phone-container .flag-dropdown select { border: none; background: transparent; font-size: 16px; cursor: pointer; }
 .wrap-5 .form-contact .form-container .form-group .phone-container .flag-dropdown img { width: 18px; height: 12px; margin-right: 5px; }
-.wrap-5 .form-contact .form-container .form-group .phone-container .phone-input { flex: 1; border: none; outline: none; font-size: 12px; padding: 10px; position: relative; }
+.wrap-5 .form-contact .form-container .form-group .phone-container .phone-input { border: none; outline: none; font-size: 12px; padding: 10px; position: relative; }
 .wrap-5 .form-contact .form-container .form-group .phone-container::after { content: "*"; color: red; position: absolute; right: 76px; top: 30%; font-size: 14px; pointer-events: none; }
 .wrap-5 .form-contact form { width: 82%; }
 .wrap-5 .form-contact .btn { text-align: center; display: flex; justify-content: center; margin-top: 20px; margin-right: 120px; }
