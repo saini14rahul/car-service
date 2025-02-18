@@ -334,6 +334,7 @@ h1 span { margin-top: 5px;}
     .wrap-6 .logo { margin-bottom: 0; }
     .wrap-6 ul { margin-top: 30px; }
     .wrap-6 .footer-info { padding-left: 0px; margin-left: 20px; }
+    .wrap-6 .ft-b { margin-bottom: 10px; }
 }
 
 @media screen and (max-width:360px){
